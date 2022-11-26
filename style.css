@@ -1,0 +1,31 @@
+body {
+    background: url('image/i.webp');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.შესვლა {
+    background-color: rgba(255, 255, 255, 0.767);
+    width: 400px;
+    height: 320px;
+    border-radius: 5%;
+    margin: 140px 440px;
+    text-align: center;
+}
+input {
+    font-size: x-large;
+    background-color: rgb(96, 10, 255);
+    border: none;
+    background: none;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    outline: none;
+}
+div {
+    width: 3px;
+    height: 3px;
+    margin-left: 60px;
+}
+h1 {
+    color:rgb(0, 0, 8);
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
